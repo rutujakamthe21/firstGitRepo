@@ -10,3 +10,5 @@ This dmeo on MVVM
 
 #Final Submission: ![Submit](https://github.com/rutujakamthe21/firstGitRepo/blob/main/Submit.png)
 
+#Register Screen: ![Register](https://github.com/rutujakamthe21/firstGitRepo/blob/main/Register.png)
+
